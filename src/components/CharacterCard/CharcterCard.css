@@ -1,0 +1,22 @@
+.info{
+  border: 2px solid whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(128, 11, 50, 0.705);
+  width: 20%;
+  border-radius: 20px;
+  
+}
+.info h2{
+    font-size: 1.3rem;
+}
+.info h3{
+    font-size: 1.1rem;
+}
+.info img{
+    height: auto;
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
